@@ -16,5 +16,8 @@ I have also included a Normal Map (image) in this folder. We'll need that during
 
 ![Preview Image 2](./ShipSeries_Part2_Start_Preview_2.png)
 
+<b>I have also included the Rope Net texture</b>
+![Rope Net](./Rope%20Net.png)
+
 Thanks!
 -- Galleon Game Dev
